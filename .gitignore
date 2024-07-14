@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+/node_modules
+/bower_components
+
+# Build files
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Heroku
+.env
+
+# NPM debug file
+npm-debug.log*
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# misc
+*.swp
+*~
+.project
+.DS_Store
+
+# Ignore all JS map files
+*.map
